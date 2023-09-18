@@ -1,5 +1,21 @@
 # dataseeker
 
+### About
+
+
+Dataseeker is used to create an infrastructure via **Pulumi** which is given cloud and dwh provider.
+This project is specialized for gaming sector, but it can be use every kind of sector.
+
+
+
+### Todo
+
+- Prepare the deployment for ks8 
+- UI improvements
+- Backend improvements
+- GCP,Azure infra implementation
+
+
 
 ### Architecture
 
